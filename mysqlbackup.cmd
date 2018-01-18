@@ -1,1 +1,1 @@
-"C:\Program Files\MySQL\MySQL Workbench 6.3 CE\mysqldump.exe" --host=localhost --user=root --password=Polonium73 -A > mysql.sql
+"C:\Program Files\MySQL\MySQL Workbench 6.3 CE\mysqldump.exe" --host=localhost --user=root --password=Polonium73 -A > f:\temp1\mysql.sql
